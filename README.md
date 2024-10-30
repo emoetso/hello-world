@@ -1,7 +1,5 @@
 # SEN Assignment
 
-## Student Information
-
 **Name:** Enike Deborah Emoetso  
 **Matric Number:** 23/13123
 
